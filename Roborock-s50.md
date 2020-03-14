@@ -2,7 +2,7 @@
 title: RoboRock S50 (Valetudo)
 description: Beschrijving Flashen van Valetudo op RoboRock S50
 published: true
-date: 2020-03-14T09:42:39.283Z
+date: 2020-03-14T09:49:18.834Z
 tags: 
 ---
 
@@ -12,5 +12,19 @@ tags:
 <H6> Intro </h6>
 De juiste Software staat al geinstaleerd op de Raspberry pie 3 (Voorheen PaterScreen) benaderbaar [link text](192.168.2.83)
 
-<h6>Buidling firmware</h6>
+Firmware is aanwezig op de RPI
+
+<h6>Building firmware</h6>
 Ga naar [Link Text](https://builder.dontvacuum.me)
+
+Vul de volgende gegevens in:
+* Voucher: Rockrobo
+* E-mail: Patrick@paternet.nl
+* ssh-public Key: Key van iMac te vinden in
+* vink aan: Create diff between original and modified image
+* vink aan: Replace Xiaomi adbd with generic adbd (enables shell access via USB)
+* Vink aan: Preinstall valetudo 0.4.x (is not possible with valetudo 0.3 or RE)
+* open tab: Rockrobo S50, S55, S5x, roborock.vacuum.s5
+	* vink aan: Gen2 (ver 1886) recommended
+  
+Create Job, Dit kan een kwartier duren voordat de bestanden gestuurd worden.
