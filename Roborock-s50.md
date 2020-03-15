@@ -2,19 +2,19 @@
 title: RoboRock S50 (Valetudo)
 description: Beschrijving Flashen van Valetudo op RoboRock S50
 published: true
-date: 2020-03-14T09:49:18.834Z
+date: 2020-03-15T10:33:33.908Z
 tags: 
 ---
 
 # RoboRock S55 (Rooten)
 ### Beschrijvig voor het Flashen van de RoboRock S50 met Valetudo en Rooten met Ubuntu.
-<br>
-<H6> Intro </h6>
+
+# Intro
 De juiste Software staat al geinstaleerd op de Raspberry pie 3 (Voorheen PaterScreen) benaderbaar [link text](192.168.2.83)
 
 Firmware is aanwezig op de RPI
 
-<h6>Building firmware</h6>
+### Building firmware
 Ga naar [Link Text](https://builder.dontvacuum.me)
 
 Vul de volgende gegevens in:
