@@ -2,7 +2,7 @@
 title: RoboRock S50 (Valetudo)
 description: Beschrijving Flashen van Valetudo op RoboRock S50
 published: true
-date: 2020-03-15T10:33:59.367Z
+date: 2020-03-15T10:34:21.929Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ De juiste Software staat al geinstaleerd op de Raspberry pie 3 (Voorheen PaterSc
 
 Firmware is aanwezig op de RPI
 
-### Building firmware
+## Building firmware
 Ga naar [https://builder.dontvacuum.me](https://builder.dontvacuum.me)
 
 Vul de volgende gegevens in:
