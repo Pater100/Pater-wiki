@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T09:50:11.488Z
+date: 2020-04-28T10:08:01.678Z
 tags: 
 ---
 
@@ -16,8 +16,12 @@ tags:
 Los onderstaande vergelijking op de door het snijpunt te vinden
 (doorlopende acolades)
 
-`{ 7X - 5Y = 1  --> 1`
-`{ 4X - 7Y = 13 --> 2`
+$$
+\begin{cases}
+  7x-5y=1  \\
+  4x-7y=13
+\end{cases}
+$$
 
 ### Stap 1
 Het is de bedoeling om een van de X of Y waarden te elimineren
@@ -26,6 +30,13 @@ bij deze som gaan we de X waarde elimineren door de bij vergelijking 1 te vermen
 
 `{ * 4 -- 28X - 20Y = 4`
 `{ * 7 -- 28X - 49Y = 91`
+
+$$
+\begin{cases}
+  7x-5y=1  \\
+  4x-7y=13
+\end{cases}
+$$
 
 ### Stap 2
 Door de vergelijkingen boven elkaar te zetten kun je de complete vergelijking van elkaar aftrekken.
