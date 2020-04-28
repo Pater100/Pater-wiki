@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T10:31:29.823Z
+date: 2020-04-28T10:33:35.500Z
 tags: 
 ---
 
@@ -86,5 +86,5 @@ $$-5Y = 1 + 14$$
 $$-5Y = 15$$
 
 $$15 / -5Y = -3$$ 
-(dus het klopt want Y = 3 `
+dus het klopt want Y = 3 `
 
