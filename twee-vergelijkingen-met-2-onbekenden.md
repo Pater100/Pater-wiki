@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T17:53:13.313Z
+date: 2020-04-28T17:53:14.151Z
 tags: 
 ---
 

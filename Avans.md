@@ -2,7 +2,7 @@
 title: Avans
 description: Uitleg bij Stof Avans
 published: true
-date: 2020-04-28T11:18:29.432Z
+date: 2020-04-28T11:18:30.194Z
 tags: 
 ---
 
