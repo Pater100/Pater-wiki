@@ -1,8 +1,8 @@
 ---
-title: drie vergelijkingen met drie onbekende
+title: Untitled Page
 description: 
 published: true
-date: 2020-04-28T21:19:55.870Z
+date: 2020-04-28T21:29:25.937Z
 tags: 
 ---
 
@@ -45,6 +45,3 @@ $$
 
 Nu we de eerste hebben moeten we hetzelfde doen in de 2de vergelijking paar.
 voor deze pakken we vergelijking 1 en vergelijking 3
-
-
-
