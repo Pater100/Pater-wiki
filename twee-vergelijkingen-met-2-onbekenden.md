@@ -2,14 +2,16 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-27T17:08:37.258Z
+date: 2020-04-28T09:47:54.976Z
 tags: 
 ---
 
-# twee vergelijkingen met 2 onbekenden
-## Hoofdstuk 11
 
-[twee vergelijkingen met 2 onbekenden](/documentscan.pdf)
+## Hoofdstuk 11
+### Voorbeeld
+[twee-vergelijking-twee-onbekende.pdf](/wiskunde/h11/twee-vergelijking-twee-onbekende.pdf)
+
+### intro
 
 Los onderstaande vergelijking op de door het snijpunt te vinden
 (doorlopende acolades)
