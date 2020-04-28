@@ -2,7 +2,7 @@
 title: Git back-up Wiki.js
 description: Back-up installen Wiki.js
 published: true
-date: 2020-04-28T09:43:25.451Z
+date: 2020-04-28T13:07:46.332Z
 tags: 
 ---
 
@@ -12,19 +12,27 @@ Instellingen om Wiki.js te back-uppen naar Github
 ### SSH Key-pair
 Open een Terminal window in Portainer, en crëeer een SSH key pair met onderstaande comand:
 
-`$ ssh-keygen -t rsa -b 4096`
+``` bash
+$ ssh-keygen -t rsa -b 4096
+```
 
 Als er word gevraagd voor naam van de key, geef het volgende op:
 
-`$ /wiki/git`
+``` bash
+$ /wiki/git
+```
 
 Navigeer naar de map waar de key staat:
 
-`$ cd /wiki`
+``` bash
+$ cd /wiki
+```
 
 Open het bestand git.pub met een text editor:
 
-`$ vi git.pub`
+``` bash
+$ vi git.pub
+```
 
 Kopi
 
