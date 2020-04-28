@@ -2,7 +2,7 @@
 title: RoboRock S50 (Valetudo)
 description: Beschrijving Flashen van Valetudo op RoboRock S50
 published: true
-date: 2020-03-15T11:19:25.140Z
+date: 2020-04-28T11:16:08.812Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ Ga naar [https://builder.dontvacuum.me](https://builder.dontvacuum.me)
 
 Vul de volgende gegevens in:
 * Voucher: Rockrobo
-* E-mail: Patrick@paternet.nl
+* E-mail: Mail adres
 * ssh-public Key: Key van iMac te vinden in
 * vink aan: Create diff between original and modified image
 * vink aan: Replace Xiaomi adbd with generic adbd (enables shell access via USB)
@@ -41,11 +41,15 @@ Reset de Stofuigers internet verbinding door de return to charger en spotclean k
 Verbind de Raspberry met de SSID van de stofzuiger: Roborock-vacuum-s5_miap7024
 Als de raspberry verbonden is, open je een terminal window.
 We moeten nu op zoek naar de Token van stofzuiger. vul hiervoor het volgende comando in:
-`mirobo --debug discover --handshake true`
+``` bash
+mirobo --debug discover --handshake true
+```
 
 Nu wordt de stozuiger gevonden en wordt in de terminal het token weer gegevens. schrijf deze op, deze hebben we nu nodig voor het flashen.
 zorg dat je in de map /home/pi/ bent.
-`mirobo --ip 192.168.8.1 --token {verander voor zojuist verkregen token} update-firmware  v11_001886.pkg`
+``` bash
+mirobo --ip 192.168.8.1 --token {verander voor zojuist verkregen token} update-firmware  v11_001886.pkg
+```
 
 Nu zal de stofzuiger de firmware downloaden van de raspberry en daarna instaleren dit kan 5 tot 10 minuten duren. de stofzuiger geeft aan als hij klaar is.
 
@@ -62,11 +66,14 @@ Vul de SSID gegevens in, klik vervolgens op ok. wacht tot de stofzuiger is verbo
 nu kun je in RRCC klikken op Ok. als deze een foutmelding geeft is dit niet erg.
 Je kunt nog een keer proberen om via SSH in te loggen in de stofzuiger,
 
-Laat RRCC zoeken de token. als je die niet kunt vinden kun je ook in de SSH sessie dit comando gebruiken: `printf $(cat /mnt/data/miio/device.token) | xxd -p`
+Laat RRCC zoeken de token. als je die niet kunt vinden kun je ook in de SSH sessie dit comando gebruiken: 
+``` bash 
+printf $(cat /mnt/data/miio/device.token) | xxd -p
+```
 
 in RRCC kun je klikken op Install Valetudo.
 Als je hier op klikt zal de software op de stofzuiger in een docker container geinstaleerd worden.
 
-Nu is de stofzuiger benaderbaar op het ip adres waarmee hij verbinding maakt normaal is dit: `http://192.168.2.84`
+Nu is de stofzuiger benaderbaar op het ip adres waarmee hij verbinding maakt.
 
 
