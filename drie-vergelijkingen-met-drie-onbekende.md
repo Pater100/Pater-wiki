@@ -2,7 +2,7 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-28T21:17:15.798Z
+date: 2020-04-28T21:19:55.870Z
 tags: 
 ---
 
