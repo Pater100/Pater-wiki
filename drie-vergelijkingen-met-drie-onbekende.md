@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-28T21:34:37.776Z
+date: 2020-04-28T21:34:46.237Z
 tags: 
 ---
 
