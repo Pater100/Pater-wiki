@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T10:08:01.678Z
+date: 2020-04-28T10:16:19.852Z
 tags: 
 ---
 
@@ -28,13 +28,10 @@ Het is de bedoeling om een van de X of Y waarden te elimineren
 
 bij deze som gaan we de X waarde elimineren door de bij vergelijking 1 te vermenigvulde met 4 en de 2de vergelijking met 7.
 
-`{ * 4 -- 28X - 20Y = 4`
-`{ * 7 -- 28X - 49Y = 91`
-
 $$
 \begin{cases}
-  7x-5y=1  \\
-  4x-7y=13
+ *4 | 28x-10y=4  \\
+ *7 |28x-49y=91
 \end{cases}
 $$
 
