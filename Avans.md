@@ -2,7 +2,7 @@
 title: Avans
 description: Uitleg bij Stof Avans
 published: true
-date: 2020-04-27T14:58:33.482Z
+date: 2020-04-28T11:17:01.065Z
 tags: 
 ---
 
@@ -10,5 +10,5 @@ tags:
 Alle uitgewewrkte stof in eigenwoorden uitgelegd.
 
 ## Avans Voorbereidende Cursus
-[Natuurkunde](/Natuurkunde)
-[Wiskunde](/Wiskunde)
+### [Natuurkunde](/Natuurkunde)
+### [Wiskunde](/Wiskunde)
