@@ -2,11 +2,11 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-04-28T21:29:25.937Z
+date: 2020-04-28T21:34:37.776Z
 tags: 
 ---
 
-## Hoofdstuk 11: drie vergelijkingen met drie onbekende
+## Hoofdstuk 11: Drie vergelijkingen met drie onbekende
 ### Voorbeeld en Aantekeningen Digibord
 
 [drie vergelijkingen drie onbekende .pdf](/wiskunde/h11/drie_vergelijkingen_drie_onbekende_.pdf)
