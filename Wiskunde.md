@@ -2,7 +2,7 @@
 title: Wiskunde
 description: uitgewerkte stof Wiskunde
 published: true
-date: 2020-04-28T21:35:14.731Z
+date: 2020-04-28T21:35:15.436Z
 tags: 
 ---
 
