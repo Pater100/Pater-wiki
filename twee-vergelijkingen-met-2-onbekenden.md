@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T11:20:46.397Z
+date: 2020-04-28T11:21:17.291Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ $$
 \end{cases}
 $$
 
-### Stap 1 Elimineer X of Y
+### Elimineer X of Y
 Het is de bedoeling om een van de X of Y waarden te elimineren
 
 bij deze som gaan we de X waarde elimineren door de bij vergelijking 1 te vermenigvulde met 4 en de 2de vergelijking met 7.
@@ -35,7 +35,7 @@ $$
 \end{cases}
 $$
 
-### Stap 2 Vergelijkingen van elkaar aftrekken
+### Vergelijkingen van elkaar aftrekken
 Door de vergelijkingen boven elkaar te zetten kun je de complete vergelijking van elkaar aftrekken.
 
 $$
@@ -53,7 +53,7 @@ $$
 29y = -87
 $$
 
-### Stap 3 Los de vergelijking op
+### Los de vergelijking op
 Nu zoals bij een normale vergelijking rechts van het is glijkteken delen door het rechterlid.
 
 $$
@@ -62,7 +62,7 @@ $$
 $$
 -87 / 29 = -3	$$	
 Y = -3
-### Stap 4 Verkrijg de nog onbekende variabele
+### Verkrijg de nog onbekende variabele
 Door nu de Y waarde in 1 van de twee vergelijkingen in te vullen kunnen we X berekenen.
 (de oorspronkelijke vergelijking, niet die van stap 1 en 2)
 
