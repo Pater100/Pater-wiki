@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T17:51:15.830Z
+date: 2020-04-28T17:53:13.313Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 ### Voorbeeld en Aantekeningen Digibord
 [twee-vergelijking-twee-onbekende.pdf](/wiskunde/h11/twee-vergelijking-twee-onbekende.pdf)
 
-[les 10 2 en 3 vergelijkingen met 2 of 3 onbekende.pdf](/wiskunde/les_10_2_en_3_vergelijkingen_met_2_of_3_onbekende.pdf)
+[les 10 2 en 3 vergelijkingen met 2 of 3 onbekende.pdf](/wiskunde/h11/les_10_2_en_3_vergelijkingen_met_2_of_3_onbekende.pdf)
 ### Intro
 
 Los onderstaande vergelijking op de door het snijpunt te vinden
