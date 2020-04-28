@@ -2,7 +2,7 @@
 title: RoboRock S50 (Valetudo)
 description: Beschrijving Flashen van Valetudo op RoboRock S50
 published: true
-date: 2020-03-15T11:19:24.218Z
+date: 2020-03-15T11:19:25.140Z
 tags: 
 ---
 
