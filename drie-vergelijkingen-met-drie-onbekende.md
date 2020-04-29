@@ -2,7 +2,7 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-29T09:47:35.228Z
+date: 2020-04-29T10:29:33.201Z
 tags: 
 ---
 
@@ -74,6 +74,47 @@ Omdat bij de 2 vergelijkingen de 5 de gemeende deler is hoeven we niks te vermen
 
 $$
 \begin{cases}
-	
+	-5y-3z=6 {\text{ -->vergelijking 4}} \\
+  5y+17z=-34 {\text{ -->vergelijking 5}}
 \end{cases}
+$$
+
+Door deze vergelijkingen bij elkaar op te tellen krijg je.
+
+$$
+14z=-28\\
+z=-2
+$$
+
+
+### Subtuueer Z in vergelijking 4 of 5
+
+$$
+-5y-3z=6\\
+-5y+6=6\\
+$$
+$$
+-5y=6-6\\
+-5y=0
+$$
+$$
+0/-5\\
+y=0
+$$
+
+### Subtuueer Z en Y in vergelijking 4 of 5
+
+$$
+4x+3y+z=2\\
+4x+0-2=2
+$$
+$$
+4x=2+0+2\\
+4x=4
+$$
+$$
+4/4\\
+x=1
+
+
 $$
