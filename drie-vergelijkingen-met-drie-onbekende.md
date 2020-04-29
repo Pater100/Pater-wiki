@@ -2,7 +2,7 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-29T10:29:33.201Z
+date: 2020-04-29T10:41:10.770Z
 tags: 
 ---
 
@@ -88,7 +88,7 @@ $$
 
 
 ### Subtuueer Z in vergelijking 4 of 5
-
+Door de Z in een van de oorspronkelijke vergelijkingen te voegen, kunnen we Y uitrekenen.
 $$
 -5y-3z=6\\
 -5y+6=6\\
@@ -102,8 +102,8 @@ $$
 y=0
 $$
 
-### Subtuueer Z en Y in vergelijking 4 of 5
-
+### Subtuueer Z en Y in vergelijking 1, 2 of 3
+Door de Z en Y in een van de oorspronkelijke vergelijkingen te voegen, kunnen we X uitrekenen.
 $$
 4x+3y+z=2\\
 4x+0-2=2
@@ -115,6 +115,7 @@ $$
 $$
 4/4\\
 x=1
-
-
 $$
+
+### Voetnoot
+Nadat je een van de variable gelijk gesteld hebt aan elkaar, mag je om deze naar 0 te brengen optellen en aftrekken.
