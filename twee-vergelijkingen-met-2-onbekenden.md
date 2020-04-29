@@ -2,7 +2,7 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-28T17:53:14.151Z
+date: 2020-04-29T10:56:51.778Z
 tags: 
 ---
 
@@ -19,8 +19,8 @@ Los onderstaande vergelijking op de door het snijpunt te vinden
 
 $$
 \begin{cases}
-  7x-5y=1  \\
-  4x-7y=13
+  7x-5y=1 {\text{ -->Vergelijking 1}} \\
+  4x-7y=13{\text{ -->Vergelijking 2}}
 \end{cases}
 $$
 
@@ -31,8 +31,8 @@ bij deze som gaan we de X waarde elimineren door de bij vergelijking 1 te vermen
 
 $$
 \begin{cases}
- *4 | 28x-10y=4  \\
- *7 |28x-49y=91
+ *4 | 28x-10y=4 {\text{ -->Vergelijking 1}} \\
+ *7 |28x-49y=91{\text{ -->Vergelijking 2}}
 \end{cases}
 $$
 
@@ -41,8 +41,8 @@ Door de vergelijkingen boven elkaar te zetten kun je de complete vergelijking va
 
 $$
 \begin{cases}
- *4 | 28x-10y=4  \\
- *7 |28x-49y=91
+28x-10y=4{\text{ -->Vergelijking 1}}  \\
+28x-49y=91{\text{ -->Vergelijking 2}}
 \end{cases}
 $$
 Trek de 2 vergelijkingen van elkaar af.
