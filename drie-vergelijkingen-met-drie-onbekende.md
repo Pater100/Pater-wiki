@@ -2,7 +2,7 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-29T09:41:03.238Z
+date: 2020-04-29T09:47:35.228Z
 tags: 
 ---
 
@@ -68,3 +68,12 @@ $$
 5y+17z=-34 {\text{ -->vergelijking 5}}
 $$
 
+### Elimineer Y uit de samengestelde vergelijking
+Nu hebben we 2 vergelijkingen waar X geelimineerd is. nu moeten we de Y elimineren uit de samengestelde vergelijking.
+Omdat bij de 2 vergelijkingen de 5 de gemeende deler is hoeven we niks te vermenigvuldigen en kunnen we meteen de 2 vergelijkingen optellen zodat de Y geelimineerd wordt.
+
+$$
+\begin{cases}
+	
+\end{cases}
+$$
