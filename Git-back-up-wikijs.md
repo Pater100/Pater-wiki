@@ -2,7 +2,7 @@
 title: Git back-up Wiki.js
 description: Back-up installen Wiki.js
 published: true
-date: 2020-04-28T13:07:47.064Z
+date: 2020-04-29T12:17:35.414Z
 tags: 
 ---
 
@@ -34,6 +34,6 @@ Open het bestand git.pub met een text editor:
 $ vi git.pub
 ```
 
-Kopi
+Kopieer de waarde van `git.pub` ergens in een tekstbestand om later te gebruiken in Github
 
 ### Instellingen Wiki.js
