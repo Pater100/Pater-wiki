@@ -2,7 +2,7 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-28T21:34:47.030Z
+date: 2020-04-29T09:41:03.238Z
 tags: 
 ---
 
@@ -40,8 +40,31 @@ $$
 En door deze 2 vergelijkingen op te tellen wordt X gelimineerd, en houd je deze vergelijking over.
 
 $$
-	-5y-3z=6
+	-5y-3z=6 {\text{ -->vergelijking 4}}
 $$
 
 Nu we de eerste hebben moeten we hetzelfde doen in de 2de vergelijking paar.
 voor deze pakken we vergelijking 1 en vergelijking 3
+
+$$
+\begin{cases}
+	4x-3y+z=2 {\text{ --> vergelijking 1}} \\
+  -x+2y+4z=-9 {\text{ -->vergelijking 3}}
+\end{cases}
+$$
+
+Om de X te kunnen elimineren vermenigvuldigen we vergelijking 3 met 4.
+
+$$
+\begin{cases}
+	4x-3y+z=2 {\text{ --> vergelijking 1}} \\
+  -4x+8y+16z=-36 {\text{ -->vergelijking 3}}
+\end{cases}
+$$
+
+En door deze 2 vergelijkingen op te tellen wordt X gelimineerd, en houd je deze vergelijking over.
+
+$$
+5y+17z=-34 {\text{ -->vergelijking 5}}
+$$
+
