@@ -2,7 +2,7 @@
 title: Git back-up Wiki.js
 description: Back-up installen Wiki.js
 published: true
-date: 2020-04-29T13:12:40.462Z
+date: 2020-04-29T13:12:41.210Z
 tags: 
 ---
 
