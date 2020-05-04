@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-04T16:43:44.903Z
+date: 2020-05-04T16:44:13.796Z
 tags: 
 ---
 
@@ -128,3 +128,4 @@ $$
 $$
 \omega^2=\omega^2_0+2*\alpha*\Delta \theta
 $$
+#### Voorbeeld
