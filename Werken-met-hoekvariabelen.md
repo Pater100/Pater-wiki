@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-04T08:50:19.969Z
+date: 2020-05-04T14:33:46.314Z
 tags: 
 ---
 
@@ -110,4 +110,11 @@ $$
 $$
 $$
 \omega=157,09[rad/s]
+$$
+
+## Formules
+Hieronder de te gebruiken formules:
+### Hoekverdraaiing
+$$
+\theta(t)=\theta_0+\omega*t+{1\over2}*\alpha*t^2
 $$
