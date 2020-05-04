@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-03T18:49:09.154Z
+date: 2020-05-04T08:50:19.969Z
 tags: 
 ---
 
@@ -71,7 +71,7 @@ hierin is v de snelheid in m/s, Omega de Boog/baan snelheid in rad/s en r is de 
 ## Omwentelingen
 Omwentelingen omrekenen naar radialen is vrij simpel door het aantal omwentelingen te vermenigdvuldigen met 2. dit omdat er in iedere cirkel 2 keer pi zit.
 $$
-Omwentelingen *2 = \text{ radialen in [rad]}
+Omwentelingen *2*\pi = \text{ radialen in [rad]}
 $$
 
 ## Pi
