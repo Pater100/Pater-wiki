@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-04T16:44:13.796Z
+date: 2020-05-05T18:27:46.963Z
 tags: 
 ---
 
@@ -129,3 +129,32 @@ $$
 \omega^2=\omega^2_0+2*\alpha*\Delta \theta
 $$
 #### Voorbeeld
+Hoe groot is de eenparige hoekversnelling van een platenspeler als deze vanuit stilstand in 1,50 omwentelingen zijn afspeelsnelheid van 33 rpm bereikt?
+
+Om van omwentelingen naar radialen te gaan:
+$$
+1,5*2*\pi
+$$
+
+Om van RPM naar radialen/seconden te gaan:
+$$
+33*2*\pi \over 60
+$$
+
+Rekenmodel:
+$$
+\omega^2=\omega^2_0+2*\alpha*\Delta \theta
+$$
+
+Ingevulde Formule:
+$$
+({33*2*\pi \over 60})^2=0^2+2*(1,5*2*\pi)*\alpha
+$$
+
+$$
+\alpha={({33*2*\pi \over 60})\over 2*(1,5*2*\pi}
+$$
+
+$$
+\alpha=0,63 [rad/s^2]
+$$
