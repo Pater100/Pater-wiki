@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-05T18:27:46.963Z
+date: 2020-05-05T18:43:43.761Z
 tags: 
 ---
 
@@ -152,7 +152,7 @@ $$
 $$
 
 $$
-\alpha={({33*2*\pi \over 60})\over 2*(1,5*2*\pi}
+\alpha={({33*2*\pi \over 60})^2\over 2*(1,5*2*\pi}
 $$
 
 $$
