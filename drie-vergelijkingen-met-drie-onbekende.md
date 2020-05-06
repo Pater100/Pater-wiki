@@ -2,8 +2,8 @@
 title: drie vergelijkingen met drie onbekende
 description: 
 published: true
-date: 2020-04-29T10:41:11.695Z
-tags: 
+date: 2020-05-06T13:39:29.610Z
+tags: wiskunde, vergelijkingen
 ---
 
 ## Hoofdstuk 11: Drie vergelijkingen met drie onbekende
