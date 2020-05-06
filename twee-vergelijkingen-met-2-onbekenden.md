@@ -2,8 +2,8 @@
 title: twee vergelijkingen met 2 onbekenden
 description: uitgewerkte stof
 published: true
-date: 2020-04-29T10:56:52.749Z
-tags: 
+date: 2020-05-06T13:38:40.196Z
+tags: wiskunde, 2 vergelijkingen 2 onbekende
 ---
 
 
