@@ -2,8 +2,8 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-05T18:43:43.761Z
-tags: 
+date: 2020-05-06T13:33:56.315Z
+tags: natuurkunde, hoekvariabelen
 ---
 
 # Werken met hoek variabelen
