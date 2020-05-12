@@ -2,7 +2,7 @@
 title: Massatraagheidsmomenten en wet van Newton voor rotaties
 description: 
 published: true
-date: 2020-05-12T18:49:04.591Z
+date: 2020-05-12T19:13:44.350Z
 tags: natuurkunde, rotatiemechanica, massatraagheid, newton, rotatie
 ---
 
@@ -27,7 +27,7 @@ $$
 $$
 Hierin is:
 * M gelijk aan de (Kracht)moment in Nm
-* I gelijk aan het massatraagheidsmoment in kg/m^2^
+* I gelijk aan het massatraagheidsmoment in kg*m^2^
 * α gelijk aan de hoekversnelling in rad/s^2^
 
 ## Traagheden bij verschillende objectsoorten
