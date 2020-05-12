@@ -2,7 +2,7 @@
 title: Natuurkunde
 description: Uitleg bij stof Natuurkunde
 published: true
-date: 2020-05-06T18:01:39.330Z
+date: 2020-05-12T17:48:23.839Z
 tags: natuurkunde
 ---
 
