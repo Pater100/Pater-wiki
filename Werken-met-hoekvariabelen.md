@@ -2,7 +2,7 @@
 title: Werken met hoekvariabelen
 description: Werken met hoekvariabelen
 published: true
-date: 2020-05-06T13:34:02.013Z
+date: 2020-05-14T13:20:45.903Z
 tags: natuurkunde, hoekvariabelen
 ---
 
@@ -12,7 +12,7 @@ hieronder een uitwerking van de Hoekvariabelen
 ## Stof KhanAcadamy
 https://youtu.be/garegCgMxxg
 
-## Booglengte (hoekverdraaiing)
+## Booglengte (hoekverdraaiïng)
 Booglengte is de lengte van de verplaatsing langs de circel boog. en vervangt de liniare positie X(totaal)
 
 Booglengte wordt aangegeven met het teken:
