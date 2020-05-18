@@ -2,7 +2,7 @@
 title: Wiskunde
 description: uitgewerkte stof Wiskunde
 published: true
-date: 2020-05-10T13:01:57.297Z
+date: 2020-05-18T14:26:58.737Z
 tags: 
 ---
 
@@ -15,3 +15,6 @@ Alle Wiskunde Stof in eigen woorden uitgelegd.
 ## Hoofdstuk 11 (Stelsels eerstegraadsvergelijking)
 [Twee vergelijkingen met 2 onbekenden](/twee-vergelijkingen-met-2-onbekenden)
 [Drie vergelijkingen met drie onbekenden](/drie-vergelijkingen-met-drie-onbekende)
+
+## Hoofdstuk 16 (Functies en Grafieken)
+[Tweedegraadsfuncties en Parabolen](/tweedegraadsfuncties-parabolen)
