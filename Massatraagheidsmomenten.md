@@ -2,7 +2,7 @@
 title: Massatraagheidsmomenten en wet van Newton voor rotaties
 description: 
 published: true
-date: 2020-05-12T19:13:44.350Z
+date: 2020-05-18T16:58:39.581Z
 tags: natuurkunde, rotatiemechanica, massatraagheid, newton, rotatie
 ---
 
@@ -64,7 +64,7 @@ $$
 ## verschuivingswet van steiner
 de wet van steiner geeft aan dat als een staaf vast zit aan een bol, en de maat is aangegeven tot het aanraak punt. dan moet ook nog de massa van het middelpunt tot de bol berekend worden en dat gebeurd met de volgende formule.
 $$
-I_{as} = I_{mmp,as}+m*d
+I_{as} = I_{mmp,as}+m*d^2
 $$
 
 Hierin is d de Asverschuiving.
