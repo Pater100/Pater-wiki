@@ -2,7 +2,7 @@
 title: Tweedegraads vergelijkingen
 description: 
 published: true
-date: 2020-05-18T12:39:47.743Z
+date: 2020-05-18T12:41:25.466Z
 tags: wiskunde, tweedegraadsevergelijkingen
 ---
 
@@ -67,8 +67,8 @@ $$
 $$
 dan is:
 A = 6
-B = 12
-C = 1
+B = -12
+C = -1
 
 ### De discriminant uitrekenen
 de volgende stap is het uitrekenen van de discriminant.
@@ -80,7 +80,7 @@ $$
 
 als we dan het voorbeeld van hierboven gebruiken id de discriminant:
 $$
-D=12^2-4*6*1=168
+D=(-12)^2-4*6*-1=168
 $$
 
 Als de discriminant positief is dan vindt je 2 waarden voor X, als deze 0 is vind je 1 waarde voor X omdat de top van de parabool dan de x waarde heeft. als de Discriminant negatief is dan heeft de vergelijking geen uitkomst, omdat de parabool dan niet kruist met de X as.
