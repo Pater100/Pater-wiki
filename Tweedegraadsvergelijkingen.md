@@ -2,7 +2,7 @@
 title: Tweedegraads vergelijkingen
 description: 
 published: true
-date: 2020-05-21T12:24:30.473Z
+date: 2020-05-21T13:51:15.663Z
 tags: wiskunde, tweedegraadsevergelijkingen
 ---
 
@@ -114,3 +114,71 @@ x= {6 \pm \sqrt {42} \over 6}
 $$
 
 Nu kan hij niet meer versimpeld worden. in de laatste stap wordt onder en boven de deelstreep gedeeld door 2.
+
+## kwadraat afsplitsen
+### intro
+Het kwadraat afsplitsen is het gebruik maken van het merkwaardig product in de kwadratische vergelijking.
+
+We gaan de volgende vergelijking oplossen.
+$$
+x^2-12x+27=0
+$$
+
+Aller eerst halen we het merkwaardig product eruit.
+$$
+(x-6)^2-36+27=0
+$$
+
+Er gebeuren hierboven meerdere dingen. 
+het min teken kan gewoon overgenomen worden, maar het getal in de 2de term wordt gedeeld door 2. om daarna nog een kloppende vergelijking over te houden moet nu het getal wat je net gedeeld hebt kwadrateren en eraf halen. het getal 27 nemen we over van de 3de term.
+
+Nu kunnen we de achterste 2 termen vereenvoudigen door ze samen te nemen:
+$$
+(x-6)^2-9=0
+$$
+
+De volgende stap is om die -9 naar de andere kant van het is gelijk teken te brengen.
+$$
+(x-6)^2=9
+$$
+
+Nu kunnen we de haakjes wegwerken door het getal in het rechterlid de wortel van te nemen.
+$$
+x-6=\sqrt9
+$$
+
+Nu kunnen we de -6 aan de ene kant naar de andere kant brengen
+$$
+x=6 \pm \sqrt9
+$$
+
+omdat 9 natuurlijk mooi rond uitkomt kunnen we deze vergelijking verder uitwerken
+$$
+x=6 \pm 3
+$$
+
+Dat geeft dus de volgende 2 oplossingen
+$$
+x=3
+$$
+$$
+x=9
+$$
+
+### hieronder nog een uitwerking
+Hieronder nog een uitwerking waar de getallen niet mooi uitkomen
+
+$$
+x^2+6x-12=0
+$$
+$$
+(x+3)^2-9-12=0
+$$
+$$
+(x+3)^2-21=0
+$$
+$$
+x+3= \sqrt{21}
+$$
+$$
+x=-3\pm\sqrt{21}
