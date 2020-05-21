@@ -2,7 +2,7 @@
 title: Tweedegraads vergelijkingen
 description: 
 published: true
-date: 2020-05-18T12:41:25.466Z
+date: 2020-05-21T12:24:30.473Z
 tags: wiskunde, tweedegraadsevergelijkingen
 ---
 
@@ -14,6 +14,9 @@ tags: wiskunde, tweedegraadsevergelijkingen
 ### Intro
 Vergelijkingen met kwadratische onbekenden worden tweedegraadsvergelijkingen genoemd.
 een tweedegraads vergelijking is altijd een parabool, en heeft daarom minimaal 2 uitkomsten. dit zijn de snijpunten op de x as.
+
+### Wiskunde Academy
+[Kwadratische vergelijkingen oplossen](https://www.youtube.com/watch?v=lu5iL6aSyts)
 
 ## standaard tweedegraadsvergelijking
 als het rechterlid niet gelijk is aan 0
