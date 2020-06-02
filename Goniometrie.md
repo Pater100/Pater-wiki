@@ -2,7 +2,7 @@
 title: Goniometrie
 description: Goniemetrie
 published: true
-date: 2020-06-02T18:41:51.615Z
+date: 2020-06-02T19:21:07.858Z
 tags: wiskunde, graden, radialen
 ---
 
@@ -28,4 +28,9 @@ $$
 $$
 
 ### radialen omrekenen naar graden
-
+$$
+{1\over6}\pi={1\over6}\pi*{180\over\pi}=30\degree
+$$
+$$
+{5\over4}\pi={5\over4}\pi*{180\over\pi}=225\degree
+$$
