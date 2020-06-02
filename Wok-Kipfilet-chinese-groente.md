@@ -2,11 +2,11 @@
 title: Wok met Chinese groente en Kipfilet
 description: 
 published: true
-date: 2020-06-02T16:24:55.856Z
+date: 2020-06-02T17:59:06.760Z
 tags: 
 ---
 
-# Bloemkool Lasagne
+# Wok met chinese groente en kipfilet
 ## informatie
 * bereidingstijd: 15 min
 
