@@ -2,7 +2,7 @@
 title: Wiskunde
 description: uitgewerkte stof Wiskunde
 published: true
-date: 2020-05-18T14:26:58.737Z
+date: 2020-06-02T18:03:26.996Z
 tags: 
 ---
 
@@ -18,3 +18,5 @@ Alle Wiskunde Stof in eigen woorden uitgelegd.
 
 ## Hoofdstuk 16 (Functies en Grafieken)
 [Tweedegraadsfuncties en Parabolen](/tweedegraadsfuncties-parabolen)
+
+## Hoofdstuk 17 (Goniometrie)
