@@ -2,7 +2,7 @@
 title: Recepten
 description: 
 published: true
-date: 2020-05-19T20:24:32.151Z
+date: 2020-06-02T17:58:15.322Z
 tags: eten, voedsel
 ---
 
@@ -15,3 +15,4 @@ Hieronder een verzameling Recepten\
 
 ### Hoofdgerecht
 [Bloemkool Lasagne](/Bloemkool-Lasagne)
+[Wok Kipfilet Chinese Groente](/Wok-Kipfilet-chinese-groente)
