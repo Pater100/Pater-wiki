@@ -2,7 +2,7 @@
 title: Goniometrie
 description: Goniemetrie
 published: true
-date: 2020-06-02T19:21:07.858Z
+date: 2020-06-03T18:00:55.271Z
 tags: wiskunde, graden, radialen
 ---
 
@@ -34,3 +34,15 @@ $$
 $$
 {5\over4}\pi={5\over4}\pi*{180\over\pi}=225\degree
 $$
+
+### oppervlakte berekenen
+de standaard formule van de oppervlakte van een cirkelsector
+$$
+{\alpha\over2\pi}*\pi r^2={1\over2}\alpha r^2
+$$
+
+Dus bij een cirkel van 1 radiaal hoekverdraaiing en een straal van 3 is dit de formule.
+$$
+{1\over2}*1*3^2=4,5={9\over2}
+$$
+
